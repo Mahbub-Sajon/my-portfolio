@@ -10,7 +10,7 @@ const Navbar = () => {
   <li><Link to="/blog">SKILLS</Link></li>
   <li><Link to="/my-portfolio">PROJECTS</Link></li>
   <li><Link to="/about">BLOG</Link></li>
-  <li><a href="https://drive.google.com/drive/folders/1Sj00rFjLAAhUvCuJ7yPzbL5a13wgVV7Z">DOWNLOAD RESUME</a></li>
+  <li><a className=' ml-10 btn bg-base-400' href="https://drive.google.com/drive/folders/1Sj00rFjLAAhUvCuJ7yPzbL5a13wgVV7Z">DOWNLOAD RESUME</a></li>
 </>
 return (
   <div className='sticky top-0 z-50'>

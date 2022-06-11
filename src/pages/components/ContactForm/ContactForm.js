@@ -15,9 +15,9 @@ const ContactForm = () => {
   }
   return (
 
-    <div className='w-1/2  bg-base-200  border-2 border-black rounded-md mx-auto my-2'>
+    <div className='w-full  bg-base-200  border-2 border-black rounded-md mx-auto my-2'>
 
-      <h1 className='text-3xl text-center font-bold mb-4'>Contact Us</h1>
+      <h1 className='text-3xl text-center font-bold mb-4'>Let Me Know Your Thinking</h1>
       <form onSubmit={sendEmail}>
 
        
@@ -44,7 +44,7 @@ const ContactForm = () => {
         {/* <p className='text-red-800'>{error}</p> */}
 
       
-       <input className=' grid  w-32 h-12 text-white bg-blue-600 hover:bg-blue-800 rounded-md mb-4 font-bold mx-auto  cursor-pointer' type="submit" />
+       <input className=' grid  w-32 h-12 text-white bg-primary hover:bg-blue-800 rounded-md mb-4 font-bold mx-auto  cursor-pointer' type="submit" />
 
       
 

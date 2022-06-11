@@ -1,17 +1,24 @@
 import React from 'react';
+import AboutMe from '../components/AboutMe/AboutMe';
 import Banner from '../components/Banner/Banner';
 import ContactForm from '../components/ContactForm/ContactForm';
-import Naveber from '../components/Navbar/Navbar';
+import Navbar from '../components/Navbar/Navbar';
 import Projects from '../components/Projects/Projects';
 
 const Home = () => {
     return (
         <div>
             
-            <Naveber></Naveber>
+            <Navbar></Navbar>
             <Banner></Banner>
-            <Projects></Projects>
-            <ContactForm></ContactForm>
+           <div className='flex justify-center gap-10'>
+           <div><AboutMe></AboutMe></div>
+           <div className='mr-10'>
+           <Projects></Projects>
+           <ContactForm></ContactForm>
+           </div>
+           </div>
+            
         </div>
     );
 };
