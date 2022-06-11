@@ -5,11 +5,11 @@ const Navbar = () => {
   const menuItems = <>
 
   <li><Link to="/">HOME</Link></li>
-  <li><Link to="/my-order">ABOUT</Link></li>
-  <li><Link to="/signup">SERVICES</Link></li>
-  <li><Link to="/blog">SKILLS</Link></li>
-  <li><Link to="/my-portfolio">PROJECTS</Link></li>
-  <li><Link to="/about">BLOG</Link></li>
+  <li><Link to="/about">ABOUT</Link></li>
+  <li><Link to="">SERVICES</Link></li>
+  <li><Link to="">SKILLS</Link></li>
+  <li><Link to="/projects">PROJECTS</Link></li>
+  <li><Link to="/">BLOG</Link></li>
   <li><a className=' ml-10 btn bg-base-400' href="https://drive.google.com/drive/folders/1Sj00rFjLAAhUvCuJ7yPzbL5a13wgVV7Z">DOWNLOAD RESUME</a></li>
 </>
 return (
