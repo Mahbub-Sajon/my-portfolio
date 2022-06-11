@@ -17,7 +17,7 @@ const ContactForm = () => {
 
     <div className='w-full  bg-base-200  border-2 border-black rounded-md mx-auto my-2'>
 
-      <h1 className='text-3xl text-center font-bold mb-4'>Let Me Know Your Thinking</h1>
+      <h1 className='text-3xl text-center font-bold mb-4'>Contact Me</h1>
       <form onSubmit={sendEmail}>
 
        
