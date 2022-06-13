@@ -11,9 +11,9 @@ const Home = () => {
             
           
             <Banner></Banner>
-           <div className='flex justify-center gap-10'>
-           <div><AboutMe></AboutMe></div>
-           <div className='mr-10'>
+           <div className='grid lg:grid-cols-2 '>
+           <div className='lg:ml-24 sm:w-full lg:w-1/2'><AboutMe></AboutMe></div>
+           <div className='lg:mr-24 '>
             <Skills></Skills>
            <Projects></Projects>
            <ContactForm></ContactForm>

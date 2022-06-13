@@ -8,10 +8,10 @@ import { Link } from 'react-router-dom';
 
 const AboutMe = () => {
     return (
-        <div className='sticky top-24 z-50'>
-            <div class="card w-96 bg-primary text-white shadow-xl">
+        <div className='sticky w-auto top-24 z-50'>
+            <div class="card w-auto bg-primary text-white shadow-xl">
                 <figure><img className='rounded-full w-32 h-32' src={img} alt="Dev-Img" /></figure>
-                <div className="card-body text-center">
+                <div className="card-body w-auto text-center">
                     <h2 class="card-title">
                         MAHBUB SAJON
                         <div class="badge badge-secondary">Available for Hire!</div>

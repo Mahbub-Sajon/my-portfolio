@@ -5,7 +5,8 @@
       "live": "https://agro-tools-ltd.web.app/",
       "client": "https://github.com/Mahbub-Sajon/agro-tools-ltd-client",
       "server": "https://github.com/Mahbub-Sajon/agro-tools-ltd-server",
-      "description": "",
+      "description": "This is an Agricultural tools manufacturing company's web site ! You can see, order, pay for your products! Several users can use this site to monitor their product. This site is completely safe for users cause others users won't be able to see your activity. You need sign up or sing in to do such activity.",
+      "technology": "React Js, React Router, React Query,  Node Js, Stripe, MongoDB(CRUD operation), Firebase, Admin and user authentication, TailwindCss, Daisy UI.",
       "img1": "https://i.ibb.co/WB364VJ/agro-tools.png",
       "img2": "https://i.ibb.co/Pjd60KC/agro-tools-2.png",
       "img3": "https://i.ibb.co/Vm7brVf/agro-tools-3.png"
@@ -16,7 +17,8 @@
       "live": "https://plant-planet-def76.web.app/",
       "client": "https://github.com/Mahbub-Sajon/plant-planet-client",
       "server": "https://github.com/Mahbub-Sajon/plant-planet-server",
-      "description": "",
+      "description": "This is an inventory management system! You can stocking, delivering, updating, deleting and adding your products! Several users can use this site to monitor their product. This site is completely safe for users cause others users won't be able to see your activity. You need sign up or sing in to do such activity.",
+      "technology": "React Js, React Router, Node Js, MongoDB(CRUD operation), Firebase authentication, TailwindCss.",
       "img1": "https://i.ibb.co/4YXPwRH/plant-planet.png",
       "img2": "https://i.ibb.co/tmbpqGC/plant-planet-2.png",
       "img3": "https://i.ibb.co/WkCyGSb/plant-planet-3.png"
@@ -27,7 +29,8 @@
       "live": "https://agro-advisor.web.app/",
       "client": "https://github.com/Mahbub-Sajon/agro-advisor",
       "server": "",
-      "description": "",
+      "description": "Here You can find the services provide by the advisor. You can see some blog section as well. But you have to log in first to be in the check out page.",
+      "technology":"React js, Firebase Authentication, Firebase hook, React Router, Hero Icons, React Tailwind CSS, Email-Password, Google verification, Reset password system.",
       "img1": "https://i.ibb.co/B25sx9w/agro-advisor.png",
       "img2": "https://i.ibb.co/jvd43jt/agro-advisor-2.png",
       "img3": "https://i.ibb.co/KLpN71V/agro-advisor-3.png"
@@ -38,7 +41,8 @@
       "live": "https://lustrous-croissant-ddf26b.netlify.app/",
       "client": "https://github.com/Mahbub-Sajon/table-lamp-review",
       "server": "",
-      "description": "",
+      "description": "This is the where customers usually post their reviews after buying the table lamp from us. It basically helps other customer to choose the right product for them. After opening the site you will be redirected to the home page. where you can get the basic information. On the review page will see the reviews given by our customers. There is also rating so you will get to know about the basic comparison. In the dashboard section you will get the information by charts to know about our sells, revenue and expenses per month. our business policy is fully transparent.",
+      "technology":"React js, React Router, React Tailwind CSS.",
       "img1": "https://i.ibb.co/sjvDd40/table-lamp-review.png",
       "img2": "https://i.ibb.co/Y0jjQrv/table-lamp-review-2.png",
       "img3": "https://i.ibb.co/GJ1Rhby/table-lamp-review-3.png"
@@ -49,7 +53,8 @@
       "live": "https://mahbub-sajon.github.io/convention-center/",
       "client": "https://github.com/Mahbub-Sajon/convention-center",
       "server": "",
-      "description": "",
+      "description": "This is a single page application. Where you can find some features of a convention center called celestial convention center. The site is very basic. At the bottom you can find an accordian where frequently asked questions are answered.",
+      "technology":"Html5, CSS3, Bootstrap 5",
       "img1": "https://i.ibb.co/qdJzZgZ/celestial-convention.png",
       "img2": "https://i.ibb.co/YLLN0fv/celestial-convention-2.png",
       "img3": "https://i.ibb.co/HqWs1f5/celestial-convention-3.png"
@@ -61,7 +66,8 @@
       "live": "https://mahbub-sajon.github.io/Influencer-Gears/index.html",
       "client": "https://github.com/Mahbub-Sajon/Influencer-Gears",
       "server": "",
-      "description": "",
+      "description": "This is single page application which supposed to be a e-commerce site. This is a very basic site. Some features of the site are shown here.",
+      "technology":"Html 5, CSS 3",
       "img1": "https://i.ibb.co/3y9vHjs/influencer.png",
       "img2": "https://i.ibb.co/XF236NB/influencer-2.png",
       "img3": "https://i.ibb.co/1J3VRGY/influencer-3.png"
