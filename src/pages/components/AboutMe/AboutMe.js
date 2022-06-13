@@ -1,14 +1,24 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
 import img from '../../../images/mypic.png' 
 import { Link } from 'react-router-dom';
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 
 const AboutMe = () => {
+
+    useEffect(() => {
+        Aos.init({duration: 2000});
+    },[])
+
     return (
-        <div className='sticky w-auto top-24 z-50'>
+        <div data-aos="fade-down"
+        data-aos-easing="linear"
+        data-aos-duration="1500"
+         className='sticky w-auto top-24 z-50'>
             <div class="card w-auto bg-primary text-white shadow-xl">
                 <figure><img className='rounded-full w-32 h-32' src={img} alt="Dev-Img" /></figure>
                 <div className="card-body w-auto text-center">
